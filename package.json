@@ -34,7 +34,7 @@
     "src"
   ],
   "dependencies": {
-    "ox": "~0.14.6"
+    "ox": "~0.14.11"
   },
   "sideEffects": false,
   "module": "./dist/index.js",
