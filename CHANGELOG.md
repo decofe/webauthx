@@ -1,5 +1,11 @@
 # webauthx
 
+## 0.1.2
+
+### Patch Changes
+
+- 308444c: Added AAGUID lookup and resolve to get webauthn provider info
+
 ## 0.1.1
 
 ### Patch Changes
