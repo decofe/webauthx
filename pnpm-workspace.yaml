@@ -14,6 +14,6 @@ catalog:
   zile: latest
 
 overrides:
-  '@vitest/browser>vitest': $vitest
-  '@vitest/browser-playwright>vitest': $vitest
+  '@vitest/browser>vitest': 'catalog:'
+  '@vitest/browser-playwright>vitest': 'catalog:'
   'webauthx': workspace:*
